@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I am Yulia 👋
+<h3>Java QA Automation Engineer</h3>
+
+ ### My technology stack is:
+
 
 <!--
 **ybuntseva/ybuntseva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
